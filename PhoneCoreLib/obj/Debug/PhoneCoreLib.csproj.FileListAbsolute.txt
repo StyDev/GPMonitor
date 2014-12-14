@@ -1,0 +1,4 @@
+c:\users\mrs raheem nutrat\documents\visual studio 2012\Projects\GPMonitor\PhoneCoreLib\Bin\Debug\PhoneCoreLib.dll
+c:\users\mrs raheem nutrat\documents\visual studio 2012\Projects\GPMonitor\PhoneCoreLib\Bin\Debug\PhoneCoreLib.pdb
+c:\users\mrs raheem nutrat\documents\visual studio 2012\Projects\GPMonitor\PhoneCoreLib\obj\Debug\PhoneCoreLib.dll
+c:\users\mrs raheem nutrat\documents\visual studio 2012\Projects\GPMonitor\PhoneCoreLib\obj\Debug\PhoneCoreLib.pdb

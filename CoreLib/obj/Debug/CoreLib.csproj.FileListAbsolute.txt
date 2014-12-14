@@ -1,0 +1,4 @@
+c:\users\mrs raheem nutrat\documents\visual studio 2012\Projects\GPMonitor\CoreLib\bin\Debug\CoreLib.dll
+c:\users\mrs raheem nutrat\documents\visual studio 2012\Projects\GPMonitor\CoreLib\bin\Debug\CoreLib.pdb
+c:\users\mrs raheem nutrat\documents\visual studio 2012\Projects\GPMonitor\CoreLib\obj\Debug\CoreLib.dll
+c:\users\mrs raheem nutrat\documents\visual studio 2012\Projects\GPMonitor\CoreLib\obj\Debug\CoreLib.pdb
