@@ -1,0 +1,14 @@
+c:\users\mrs raheem nutrat\documents\visual studio 2012\Projects\GPMonitor\PhoneBusinessLogic\obj\Debug\PhoneBusinessLogic.csprojResolveAssemblyReference.cache
+c:\users\mrs raheem nutrat\documents\visual studio 2012\Projects\GPMonitor\PhoneBusinessLogic\Bin\Debug\PhoneBusinessLogic.dll
+c:\users\mrs raheem nutrat\documents\visual studio 2012\Projects\GPMonitor\PhoneBusinessLogic\Bin\Debug\PhoneBusinessLogic.pdb
+c:\users\mrs raheem nutrat\documents\visual studio 2012\Projects\GPMonitor\PhoneBusinessLogic\Bin\Debug\PhoneCoreLib.dll
+c:\users\mrs raheem nutrat\documents\visual studio 2012\Projects\GPMonitor\PhoneBusinessLogic\Bin\Debug\PhoneCoreLib.pdb
+c:\users\mrs raheem nutrat\documents\visual studio 2012\Projects\GPMonitor\PhoneBusinessLogic\obj\Debug\PhoneBusinessLogic.dll
+c:\users\mrs raheem nutrat\documents\visual studio 2012\Projects\GPMonitor\PhoneBusinessLogic\obj\Debug\PhoneBusinessLogic.pdb
+C:\Users\Azeezat\Documents\Visual Studio 2013\Projects\GPMonitor\PhoneBusinessLogic\Bin\Debug\PhoneBusinessLogic.dll
+C:\Users\Azeezat\Documents\Visual Studio 2013\Projects\GPMonitor\PhoneBusinessLogic\Bin\Debug\PhoneBusinessLogic.pdb
+C:\Users\Azeezat\Documents\Visual Studio 2013\Projects\GPMonitor\PhoneBusinessLogic\Bin\Debug\PhoneCoreLib.dll
+C:\Users\Azeezat\Documents\Visual Studio 2013\Projects\GPMonitor\PhoneBusinessLogic\Bin\Debug\PhoneCoreLib.pdb
+C:\Users\Azeezat\Documents\Visual Studio 2013\Projects\GPMonitor\PhoneBusinessLogic\obj\Debug\PhoneBusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\Azeezat\Documents\Visual Studio 2013\Projects\GPMonitor\PhoneBusinessLogic\obj\Debug\PhoneBusinessLogic.dll
+C:\Users\Azeezat\Documents\Visual Studio 2013\Projects\GPMonitor\PhoneBusinessLogic\obj\Debug\PhoneBusinessLogic.pdb

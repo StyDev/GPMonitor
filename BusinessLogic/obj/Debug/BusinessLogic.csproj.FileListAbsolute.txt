@@ -1,0 +1,7 @@
+c:\users\mrs raheem nutrat\documents\visual studio 2012\Projects\GPMonitor\BusinessLogic\bin\Debug\BusinessLogic.dll
+c:\users\mrs raheem nutrat\documents\visual studio 2012\Projects\GPMonitor\BusinessLogic\bin\Debug\BusinessLogic.pdb
+c:\users\mrs raheem nutrat\documents\visual studio 2012\Projects\GPMonitor\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+c:\users\mrs raheem nutrat\documents\visual studio 2012\Projects\GPMonitor\BusinessLogic\obj\Debug\BusinessLogic.dll
+c:\users\mrs raheem nutrat\documents\visual studio 2012\Projects\GPMonitor\BusinessLogic\obj\Debug\BusinessLogic.pdb
+c:\users\mrs raheem nutrat\documents\visual studio 2012\Projects\GPMonitor\BusinessLogic\bin\Debug\CoreLib.dll
+c:\users\mrs raheem nutrat\documents\visual studio 2012\Projects\GPMonitor\BusinessLogic\bin\Debug\CoreLib.pdb
